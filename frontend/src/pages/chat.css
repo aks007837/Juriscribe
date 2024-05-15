@@ -1,0 +1,28 @@
+.contianer
+{
+    max-width: 70vw;
+    background-color: red;
+    margin: auto;
+    display: block;
+    height: 70vh;
+}
+
+.message
+{
+    background-color: blue;
+    width: 24%;
+    padding: 10px;
+    margin: 17px 12px;
+    border: 2px solid white;
+    border-radius: 10%;
+}
+.left
+{
+    float: left;
+    clear: both;
+}
+.right
+{
+    float: right;
+    clear: both;
+}
