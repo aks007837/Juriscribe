@@ -106,7 +106,7 @@ Before proceeding, please verify that Node.js and npm (Node Package Manager) are
 
 [<img src="https://contrib.rocks/image?repo=UdityaRaj11/UdityaRaj11" width="100">](https://github.com/UditaRaj11)
 [<img src="https://contrib.rocks/image?repo=MrSnor/Netflix-Clone" width="100">](https://github.com/MrSnor)
-[<img src="https://contrib.rocks/image?repo=pragatisaikia/pragatisaikia" width="100">](https://github.com/pragatisaikia)
+[<img src="https://contrib.rocks/image?repo=karan9576/karan9576" width="100">](https://github.com/karan9576)
 [<img src="https://contrib.rocks/image?repo=suhani1804/Share-io" width="100">](https://github.com/psuhani1804)
 [<img src="https://contrib.rocks/image?repo=aks007837/aks007837" width="100">](https://github.com/aks007837)
 [<img src="https://contrib.rocks/image?repo=RIYAN1-ux/RIYAN1-ux" width="100">](https://github.com/RIYAN1-ux)
